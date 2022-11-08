@@ -1,17 +1,24 @@
-PÁGINA DE INICIO DE NOTICIAS
-Diseño de modo oscuro desarrollado con HTML, CSS y JS que cuenta con un header y 4 secciones, se aplica un evento al botón para validación de correo electrónico.
+# RETO COMPLETADO FRONTEND MENTOR!!
 
-Vista previa:
+Vamos por nuestro reto número 21 completado en la página, una buena práctica que 
+te permitirá ajustar todas tus habilidades con CSS GRID y FLEXBOX.  
 
-Código fuente:
+## PÁGINA DE INICIO DE NOTICIAS
+El diseño está desarrollado con HTML, CSS y un poco de JS para la funcionalidad del menú, que cuenta con un header, banner y distintas secciones de noticias.
 
-Página fuente:
+## Página fuente frontEnd mentor:
 https://www.frontendmentor.io/
 
-Frase del día:
-La clave para tener éxito en los negocios es saber en qué dirección va el mundo y procurar llegar ahí antes que nadie.
+## Vista previa:
+https://antonmarchitec.github.io/pagina_inicio_noticias/
 
-Bill Gates
+## Código fuente:
+https://github.com/Antonmarchitec/pagina_inicio_noticias.git
 
-Imagen proyecto:
+
+## Frase del día:
+"De vez en cuando, una nueva tecnología, un antiguo problema y una gran idea se convierten en una innovación".
+<--Dean Kamen. Creador del Segway y el iBOT.-->
+
+## Imagen proyecto:
 ![nuevo](https://user-images.githubusercontent.com/70084380/200480696-b9cf4f4d-283d-41ef-8d9f-e7d0210f909c.jpg)
