@@ -6,6 +6,10 @@ te permitirá ajustar todas tus habilidades con CSS GRID y FLEXBOX.  
 ## PÁGINA DE INICIO DE NOTICIAS
 El diseño está desarrollado con HTML, CSS y un poco de JS para la funcionalidad del menú, que cuenta con un header, banner y distintas secciones de noticias.
 
+## DISEÑO RESPONSIVE
+- Desktop: 1440px
+- Movil: 423px
+
 ## Página fuente frontEnd mentor:
 https://www.frontendmentor.io/
 
