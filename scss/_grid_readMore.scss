@@ -1,0 +1,72 @@
+@import "variables";
+
+/*
+containerReadMore
+containerReadMore_desc
+containerReadMore_buttom
+*/
+
+
+.containerReadMore{
+    width:100%;
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    background: $Off_white;
+    .containerReadMore_desc{
+        width:100%;
+    }
+
+    .containerReadMore_buttom{
+        width: 150px;
+        padding: 10px 0px;
+        background: $Soft_red;
+        border: none;
+        color: $Off_white;
+        font-weight: $font_weight_delgado;
+        letter-spacing: 2px;
+    }
+    .containerReadMore_buttom:hover{
+        background: linear-gradient($Very_dark_blue, $Dark_grayish_blue);
+        cursor: pointer;
+    }
+}
+
+
+
+
+
+
+
+@media (min-width:320px) and (max-width:423px){
+    .containerReadMore{
+        width:100%;
+        height: 130px;
+        padding: 0px 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        background: $Off_white;
+        .containerReadMore_desc{
+            width:100%;
+        }
+    
+        .containerReadMore_buttom{
+            width: 150px;
+            padding: 10px 0px;
+            background: $Soft_red;
+            border: none;
+            color: $Off_white;
+            font-weight: $font_weight_delgado;
+            letter-spacing: 2px;
+        }
+        .containerReadMore_buttom:hover{
+            background: linear-gradient($Very_dark_blue, $Dark_grayish_blue);
+            cursor: pointer;
+        }
+    }
+}

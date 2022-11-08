@@ -1,0 +1,45 @@
+@import "variables";
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    font-size: 15px;
+}
+
+.attribution{
+    margin: 100px auto;
+    width: 100%;
+    text-align: center;
+}
+
+
+@media (min-width:320px) and (max-width:423px){
+    .attribution{
+        margin: 60px auto;
+        width: 90%;
+        text-align: center;
+    }
+    
+}
+
+
+
+
+
+
+
+@import "grid_base";
+@import "grid_header";
+@import "grid_banner";
+@import "grid_sectionBright";
+@import "grid_readMore";
+@import "grid_new";
+@import "grid_numbers_01";
+@import "grid_numbers_02";
+@import "grid_numbers_03";
